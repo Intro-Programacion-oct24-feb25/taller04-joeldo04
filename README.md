@@ -1,4 +1,5 @@
 # Taller-04-ingreso-de-datos
+Joel Dominguez Ochoa 
 
 ### Listado de problemáticas
 - Por cada problemática generar un proyecto en Netbeans. El proyecto ubicarlo en la carpeta correspondiente
